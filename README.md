@@ -28,7 +28,7 @@ Moreover, they can follow any user if they want and browse the posts on their ho
 ![User Profile Page with some posts](public/images/screenshots/Image4.png)
 
 Thank you very much!
-> Name: Shamim Hossain
-> Email: hossains159@gmail.com
-> Facebook: https://www.facebook.com/shamscorner
-> Linkedin: https://www.linkedin.com/in/shamscorner/
+* **Name:** Shamim Hossain
+* **Email:** hossains159@gmail.com
+* **Facebook:** https://www.facebook.com/shamscorner
+* **Linkedin:** https://www.linkedin.com/in/shamscorner/

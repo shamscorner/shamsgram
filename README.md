@@ -27,7 +27,7 @@ Moreover, they can follow any user if they want and browse the posts on their ho
 **User can update an existing post**
 ![User Profile Page with some posts](public/images/screenshots/Image4.png)
 
-Thank you very much! :simple_smile:
+Thank you very much! :smiley:
 * **Name:** Shamim Hossain
 * **Email:** hossains159@gmail.com
 * **Facebook:** https://www.facebook.com/shamscorner
